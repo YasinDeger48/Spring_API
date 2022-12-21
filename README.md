@@ -3,7 +3,7 @@ This project is created for tutorial
 
 
 ```sh
-java -jar demo-0.0.1-SNAPSHOT.jar (--server.port=8082)*optional
+java -jar api_layer.jar (--server.port=8082)*optional
 
 ```
 
