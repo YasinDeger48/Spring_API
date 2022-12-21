@@ -8,8 +8,8 @@
 		<version>2.7.6</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.springboot</groupId>
+	<artifactId>api_layer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
 	<description>Demo project for Spring Boot</description>
