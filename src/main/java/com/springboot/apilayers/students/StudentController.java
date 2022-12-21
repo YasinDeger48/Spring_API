@@ -1,9 +1,8 @@
-package com.example.demo.student;
+package com.springboot.apilayers.students;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import javax.transaction.Transactional;
 import java.util.List;
 
 

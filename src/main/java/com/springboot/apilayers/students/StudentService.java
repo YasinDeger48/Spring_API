@@ -1,9 +1,7 @@
-package com.example.demo.student;
+package com.springboot.apilayers.students;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.jdbc.repository.support.SimpleJdbcRepository;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
 
 import javax.transaction.Transactional;
 import java.util.List;

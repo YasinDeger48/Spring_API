@@ -1,4 +1,4 @@
-package com.example.demo.student;
+package com.springboot.apilayers.students;
 
 
 import javax.persistence.*;
