@@ -22,7 +22,7 @@ Then you can build jar file after verifying. Like bottom picture.
 Then copy jar file to specific location.
 
 ```
-cd location path
+cd <location path>
 ```
 
 then
